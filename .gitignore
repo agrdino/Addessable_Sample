@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Addessable_Sample/.idea
+Addessable_Sample/Library
+Addessable_Sample/Temp
+Addessable_Sample/Logs
+Addessable_Sample/UserSettings

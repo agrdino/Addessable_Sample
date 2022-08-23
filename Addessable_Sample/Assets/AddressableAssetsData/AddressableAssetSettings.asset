@@ -63,7 +63,7 @@ MonoBehaviour:
       - m_Id: 3bf3c5ba1a66c3546b7dacebdd61f868
         m_Value: ServerData/[BuildTarget]
       - m_Id: e3b40c0330ebaa542b40a96e581425be
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: https://github.com/agrdino/Addessable_Sample/tree/main/Addessable_Sample/Assets/AddressableAssetsData/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 2208cd42e4ba05e4986fc60d1eb7c9a4
       m_Name: BuildTarget

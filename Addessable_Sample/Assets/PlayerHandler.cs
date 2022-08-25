@@ -14,6 +14,7 @@ public class PlayerHandler : MonoBehaviour
     private void Move()
     {
         int direction = Random.Range(0, 4);
+        Debug.LogError("scripts change");
         var moveDirection = direction switch
         {
             0 => Vector3.up,
